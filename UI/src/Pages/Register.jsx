@@ -98,7 +98,7 @@ const Register = () => {
                   login
                 </Button>
 
-                <Link to="/login">New here? Register</Link>
+                <Link to="/login">old ?then come here</Link>
               </Stack>
             </form>
           );

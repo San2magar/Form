@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["Formik"]
+  "cSpell.words": ["Formik"],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:UI}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
 }
